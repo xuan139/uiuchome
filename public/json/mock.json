@@ -1,0 +1,119 @@
+{
+  "headerContact": {
+    "hotLine": {
+      "name": "服务微信号 wz287849303"
+    },
+    "Email": {
+      "name": "lixuan2001@gmail.com"
+    }
+  },
+  "headerNav": [
+    {
+      "name": "资料中心",
+      "link": "http://www.uiuchome.com/download.html",
+      "children": [
+
+        {
+          "name": "入学须知",
+          "link": "http://www.uiuchome.com/freshman.html"
+        },
+
+                {
+          "name": "机场大巴",
+          "link": "http://www.uiuchome.com/traffic.html"
+        },
+                {
+          "name": "公寓宿舍",
+          "link": "http://www.uiuchome.com/Apartment.html"
+        },
+                {
+          "name": "银行电信",
+          "link": "http://www.uiuchome.com/bank.html"
+        },
+                {
+          "name": "报道事项",
+          "link": "http://www.uiuchome.com/freshman.html"
+        },
+                {
+          "name": "签证",
+          "link": "http://www.uiuchome.com/visa.html"
+        },
+                {
+          "name": "驾照办理",
+          "link": "http://www.uiuchome.com/driver.html"
+        },
+
+                 {
+          "name": "学校课程",
+          "link": "http://www.uiuchome.com/uiuc.html"
+        },
+
+                        {
+          "name": "驾照办理",
+          "link": "http://www.uiuchome.com/driver.html"
+        },
+                                {
+          "name": "视频中心",
+          "link": "http://www.uiuchome.com/videos.html"
+        }
+      ]     
+    }, 
+
+
+    {
+      "name": "本地服务",
+      "link": "http://www.baidu.com",
+      "children": [
+        {
+          "name": "吃喝",
+          "link": "http://www.baidu.com"
+        },
+        {
+          "name": "住宿",
+          "link": "http://www.baidu.com"
+        },
+        {
+          "name": "交通",
+          "link": "http://www.baidu.com"
+        },
+        {
+          "name": "其他",
+          "link": "http://www.baidu.com"
+        }
+      ]
+    }, 
+ 
+    {
+      "name": "联系我们",
+      "link": "http://uiuchome.com",
+      "children": []
+    }
+  ],
+  "userNav": [
+    {
+      "name": "美丽校园",
+      "link": "1"
+    }, {
+      "name": "到达学校",
+      "link": "2"
+    }, {
+      "name": "酒店介绍",
+      "link": "3"
+    }, {
+      "name": "餐饮介绍",
+      "link": "4"
+    },  {
+      "name": "家长专栏",
+      "link": "5"
+    }, {
+      "name": "校园活动",
+      "link": "6"
+    }, {
+      "name": "帖子",
+      "link": "7"
+    }, {
+      "name": "社群介绍",
+      "link": "8"
+    }
+  ]
+}
