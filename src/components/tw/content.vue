@@ -19,8 +19,8 @@
             <Icon type="ios-arrow-down" class="show-text" v-show="textMore" />
             <Icon type="ios-arrow-up" class="show-text" v-show="!textMore" />
           </div>
-          <div class="text">
-            <p>{{news.content.text}}</p>
+          <div class="text" v-html="news.content.text">
+            <!-- <p>{{news.content.text}}</p> -->
           </div>
           <div class="img" v-if="news.content.img !== ''">
             <img :src="news.content.img" alt="">
@@ -57,7 +57,7 @@ export default {
     getList(){
       let vm = this;
       let keyName = 'type' + vm.selectType
-      this.$http.get('/json/article.json')
+      this.$http.get('/json/article_test.json')
         .then(res=>{
           vm.newsList = res.data.article[keyName] || []
         })
